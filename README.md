@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to Wawa Sensei profile 👋
+
+Hello I am a very good developer
 
 <!--
 **wass08/wass08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
