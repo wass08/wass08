@@ -2,8 +2,8 @@
 
 <h3 align="center">3D Web Developer from France living his best life in Tokyo 🇯🇵</h3>
 
-
 <p align="center">Learn Three.js with React with <a href="https://wawasensei.dev/">my courses and video tutorials</a>.</p>
+
 
 - 🔭 I’m currently working on [my YouTube content](https://youtube.com/c/WawaSensei)
 
@@ -14,6 +14,10 @@
 - 📫 How to reach me **contact@wawasensei.dev**
 
 - ⚡ Fun fact **I am very funny**
+
+### Support my content
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/wass08)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
