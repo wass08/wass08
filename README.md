@@ -15,9 +15,6 @@
 
 - ⚡ Fun fact **I am very funny**
 
-### Support my content
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/wass08)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
